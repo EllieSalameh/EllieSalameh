@@ -1,4 +1,4 @@
-## Hi there 👋
+##Second year computer science Undergraduate discovering new things
 
 <!--
 **EllieSalameh/EllieSalameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
